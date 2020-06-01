@@ -1,0 +1,11 @@
+header {
+  background: url("https://i.redd.it/z5egq8uw1x031.jpg");
+  padding: 75px;
+}
+.title {
+  background-color: rgba(0, 0, 0, 0.4);
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+  display: inline-block;
+}
